@@ -215,9 +215,6 @@ return group;
 }
 ```
 
-现在可以测试喽, 看下效果吧, 如果需要可以发demo给亲们~
-![3DTouch.gif](http://upload-images.jianshu.io/upload_images/576025-ff1e62eeee1147ce.gif?imageMogr2/auto-orient/strip)
-
 思路详情请移步技术文章:[3DTouch - iOS新特性](http://blog.csdn.net/smilezhangli/article/details/78557685)
 
 您的支持是作为程序媛的我最大的动力, 如果觉得对你有帮助请送个Star吧,谢谢啦
